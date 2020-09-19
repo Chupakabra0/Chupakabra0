@@ -16,8 +16,6 @@
 ### 🎧 Играет в Spotify
 [<img src="https://spotify-now-playing-theta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tzzgd4pa6i3i6dqv8nw0pkpl7)
 
-<br/>
-
 ## Инструменты и языки:
 
 <img align="left" alt="Windows" width="26px" src="icons/windows.svg"/>
