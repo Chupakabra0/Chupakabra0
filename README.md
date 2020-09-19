@@ -28,7 +28,7 @@
 
 <br/>
 
-### ❓ Что хочу выучить:
+## ❓ Что хочу выучить:
 
 <img align="left" alt="Avalonia UI" width="26px" src="icons/avalonia-ui.png"/>
 <img align="left" alt="Qt" width="26px" src="icons/qt.svg"/>
