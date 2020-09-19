@@ -1,4 +1,4 @@
-# Привет, я Александр Сафиюлин
+# Привет, друг! 
 
 ## Немного о репозитории:
 - 🙌 выкладываю свои университетские лабораторные работы в открытый доступ;
@@ -14,7 +14,7 @@
 <br/>
 
 ### 🎧 Играет в Spotify
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/tzzgd4pa6i3i6dqv8nw0pkpl7)
+[<img src="https://spotify-now-playing-theta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tzzgd4pa6i3i6dqv8nw0pkpl7)
 
 <br/>
 
