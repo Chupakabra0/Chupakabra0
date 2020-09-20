@@ -5,7 +5,7 @@
 - ✏️ стараюсь активно выкладывать свои учебные наработки;
 - 🖥 работаю пока в основном с десктопными и консольными приложениями;
 
-## 📝 Контакты:
+### 📝 Контакты:
 
 [<img align="left" alt="Chupakabra0 | Telegram" width="22px" src="icons/telegram.svg"/>][telegram]
 [<img align="left" alt="Chupakabra0 | Gmail" width="22px" src="icons/gmail.svg"/>][gmail]
@@ -13,10 +13,10 @@
 
 <br/>
 
-### 🎧 Играет в Spotify
+### 🎧 Играет в Spotify:
 [<img src="https://spotify-now-playing-theta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tzzgd4pa6i3i6dqv8nw0pkpl7)
 
-## ❗️ Инструменты и языки:
+### ❗️ Инструменты и языки:
 
 [<img align="left" alt="Windows" width="26px" src="icons/windows.svg"/>][windows]
 [<img align="left" alt="Visual Studio" width="26px" src="icons/visual-studio.svg"/>][visual studio]
@@ -28,7 +28,7 @@
 
 <br/>
 
-## ❓ Что хочу выучить:
+### ❓ Что хочу выучить:
 
 [<img align="left" alt="Avalonia UI" width="26px" src="icons/avalonia-ui.png"/>][avalonia ui]
 [<img align="left" alt="Xamarin" width="26px" src="icons/xamarin.png"/>][xamarin]
