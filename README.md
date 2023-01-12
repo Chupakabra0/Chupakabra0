@@ -14,7 +14,7 @@
 <br/>
 
 ### 🎧 Играет в Spotify:
-[<img src="https://spotify-now-playing-theta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tzzgd4pa6i3i6dqv8nw0pkpl7)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tzzgd4pa6i3i6dqv8nw0pkpl7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=5b2067&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=tzzgd4pa6i3i6dqv8nw0pkpl7&redirect=true)
 
 [telegram]: https://t.me/Chu_Pa_Kabra
 [gmail]: rootalfa4@gmail.com
